@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="item">ItemString</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="button1">Button 1</string>
+    <string name="button2">Button 2</string>
+    <string name="moreinfoheader">About</string>
+    <string name="moreinfo">Some text\nMore info\nOther strings...\n</string>
+</resources>
